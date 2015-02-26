@@ -1,0 +1,10 @@
+D:\Projects\QuestionCards\src\website\QuestionCards\QuestionCards.Domain\bin\Debug\QuestionCards.Domain.dll.config
+D:\Projects\QuestionCards\src\website\QuestionCards\QuestionCards.Domain\bin\Debug\QuestionCards.Domain.dll
+D:\Projects\QuestionCards\src\website\QuestionCards\QuestionCards.Domain\bin\Debug\QuestionCards.Domain.pdb
+D:\Projects\QuestionCards\src\website\QuestionCards\QuestionCards.Domain\bin\Debug\Autofac.Configuration.dll
+D:\Projects\QuestionCards\src\website\QuestionCards\QuestionCards.Domain\bin\Debug\Autofac.dll
+D:\Projects\QuestionCards\src\website\QuestionCards\QuestionCards.Domain\bin\Debug\Autofac.xml
+D:\Projects\QuestionCards\src\website\QuestionCards\QuestionCards.Domain\bin\Debug\Autofac.Configuration.xml
+D:\Projects\QuestionCards\src\website\QuestionCards\QuestionCards.Domain\obj\Debug\QuestionCards.Domain.csprojResolveAssemblyReference.cache
+D:\Projects\QuestionCards\src\website\QuestionCards\QuestionCards.Domain\obj\Debug\QuestionCards.Domain.dll
+D:\Projects\QuestionCards\src\website\QuestionCards\QuestionCards.Domain\obj\Debug\QuestionCards.Domain.pdb

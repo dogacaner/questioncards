@@ -1,0 +1,16 @@
+D:\Projects\QuestionCards\src\website\QuestionCards\QuestionCards.PersistenceEF\obj\Debug\QuestionCards.PersistenceEF.csprojResolveAssemblyReference.cache
+D:\Projects\QuestionCards\src\website\QuestionCards\QuestionCards.PersistenceEF\bin\Debug\QuestionCards.PersistenceEF.dll.config
+D:\Projects\QuestionCards\src\website\QuestionCards\QuestionCards.PersistenceEF\bin\Debug\QuestionCards.PersistenceEF.dll
+D:\Projects\QuestionCards\src\website\QuestionCards\QuestionCards.PersistenceEF\bin\Debug\QuestionCards.PersistenceEF.pdb
+D:\Projects\QuestionCards\src\website\QuestionCards\QuestionCards.PersistenceEF\bin\Debug\Autofac.Configuration.dll
+D:\Projects\QuestionCards\src\website\QuestionCards\QuestionCards.PersistenceEF\bin\Debug\Autofac.dll
+D:\Projects\QuestionCards\src\website\QuestionCards\QuestionCards.PersistenceEF\bin\Debug\EntityFramework.dll
+D:\Projects\QuestionCards\src\website\QuestionCards\QuestionCards.PersistenceEF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\QuestionCards\src\website\QuestionCards\QuestionCards.PersistenceEF\bin\Debug\QuestionCards.Domain.dll
+D:\Projects\QuestionCards\src\website\QuestionCards\QuestionCards.PersistenceEF\bin\Debug\QuestionCards.Domain.pdb
+D:\Projects\QuestionCards\src\website\QuestionCards\QuestionCards.PersistenceEF\bin\Debug\Autofac.xml
+D:\Projects\QuestionCards\src\website\QuestionCards\QuestionCards.PersistenceEF\bin\Debug\Autofac.Configuration.xml
+D:\Projects\QuestionCards\src\website\QuestionCards\QuestionCards.PersistenceEF\bin\Debug\EntityFramework.xml
+D:\Projects\QuestionCards\src\website\QuestionCards\QuestionCards.PersistenceEF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\QuestionCards\src\website\QuestionCards\QuestionCards.PersistenceEF\obj\Debug\QuestionCards.PersistenceEF.dll
+D:\Projects\QuestionCards\src\website\QuestionCards\QuestionCards.PersistenceEF\obj\Debug\QuestionCards.PersistenceEF.pdb

@@ -12,11 +12,11 @@ namespace QuestionCards.Domain
         Text,
         TrueFalse
     }
-    public class Answer
+    public class Answer : AuditEntity
     {
         public AnswerType Type { get; set; }
         public string Text { get; set; }
         public bool IsTrue { get; set; }
-        public List<Choice> Choices { get; set; }
+        public virtual List<Choice> Choices { get; set; }
     }
 }

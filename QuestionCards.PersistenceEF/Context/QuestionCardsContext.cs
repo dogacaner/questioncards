@@ -15,6 +15,7 @@ namespace QuestionCards.PersistenceEF.Context
 
 
         public QuestionCardsContext()
+            : base("DefaultConnection")
         {
         }
 

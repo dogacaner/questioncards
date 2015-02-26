@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace QuestionCards.Domain
 {
-    public class Choice
+    public class Choice : AuditEntity
     {
         public string Text { get; set; }
         public bool IsTrue { get; set; }

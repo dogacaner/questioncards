@@ -53,6 +53,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Context\QuestionCardsContext.cs" />
+    <Compile Include="Migrations\201502261554103_initial.cs" />
+    <Compile Include="Migrations\201502261554103_initial.Designer.cs">
+      <DependentUpon>201502261554103_initial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -64,6 +69,11 @@
       <Project>{9a5e4cd5-e1cd-4e33-b0e4-2192ccdb5656}</Project>
       <Name>QuestionCards.Domain</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201502261554103_initial.resx">
+      <DependentUpon>201502261554103_initial.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
